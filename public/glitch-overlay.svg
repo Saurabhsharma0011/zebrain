@@ -1,0 +1,19 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="glitch" patternUnits="userSpaceOnUse" width="100" height="100">
+      <rect width="100" height="100" fill="none"/>
+      <path d="M0 10 L100 10" stroke="#10B981" stroke-width="0.5" opacity="0.3"/>
+      <path d="M0 30 L100 30" stroke="#9333EA" stroke-width="0.5" opacity="0.3"/>
+      <path d="M0 50 L100 50" stroke="#10B981" stroke-width="0.5" opacity="0.3"/>
+      <path d="M0 70 L100 70" stroke="#9333EA" stroke-width="0.5" opacity="0.3"/>
+      <path d="M0 90 L100 90" stroke="#10B981" stroke-width="0.5" opacity="0.3"/>
+      <path d="M10 0 L10 100" stroke="#9333EA" stroke-width="0.5" opacity="0.3"/>
+      <path d="M30 0 L30 100" stroke="#10B981" stroke-width="0.5" opacity="0.3"/>
+      <path d="M50 0 L50 100" stroke="#9333EA" stroke-width="0.5" opacity="0.3"/>
+      <path d="M70 0 L70 100" stroke="#10B981" stroke-width="0.5" opacity="0.3"/>
+      <path d="M90 0 L90 100" stroke="#9333EA" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="100" height="100" fill="url(#glitch)"/>
+</svg>
+
