@@ -60,6 +60,5 @@ StratlensGuard is an advanced, secure, and scalable AI Audit Agent Framework des
 
 ---
 
-## 📩 Contact
-
-For access, early previews, or custom integrations, reach out at [hello@stratlens.io](mailto:hello@stratlens.io).
+# Api reffrence
+# we use openai api to generete response from this framework
