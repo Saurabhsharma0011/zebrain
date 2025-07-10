@@ -26,8 +26,6 @@ StratlensGuard is an advanced, secure, and scalable AI Audit Agent Framework des
 * **Access Control**: Only authorized API keys can trigger audit operations.
 * **Environment Isolation**: API keys and sensitive data are securely stored in environment variables.
 
----
-
 ## 🌟 How It Works
 
 1. **Submit Project Metadata**
