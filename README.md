@@ -2,7 +2,6 @@
 
 StratlensGuard is an advanced, secure, and scalable AI Audit Agent Framework designed for the Solana ecosystem. It provides developers, founders, and communities with the power to deploy customizable AI agents that perform secure, data-driven audits on tokens without requiring wallet connections or paid tools.
 
----
 
 ## 🚀 Key Features
 
