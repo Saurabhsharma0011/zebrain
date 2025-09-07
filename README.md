@@ -13,8 +13,6 @@ StratlensGuard is an advanced, secure, and scalable AI Audit Agent Framework des
 
 🚫 **No Wallet Required**: User-friendly and secure by default.
 
----
-
 ## 🔐 Security Features
 
 * **Secure API Authentication**: Uses OAuth 2.0 for API request security.
